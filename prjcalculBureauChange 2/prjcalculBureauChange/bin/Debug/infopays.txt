@@ -1,0 +1,99 @@
+﻿Tunisie
+Dinar Tunisien (TND)
+3.01
+Angleterre
+livre (GBP)
+0.78
+Australie
+dollar (AUD)
+1.38
+Egypte
+Livre Egyptienne (EGP)
+18.59
+Canada
+Dollar (CAD)
+1.27
+Liban
+Livre Libanaise (LBP)
+1515.41
+Danemark
+couronne (DKK)
+6.89
+Algerie
+Dinar Algerien (DZD)
+144.00
+Maroc
+Dirham Marocain (MAD)
+9.83
+France
+euro (EUR)
+0.92
+Hong Kong
+dollar (HKD)
+7.85
+Japon
+yen (JPY)
+128.57
+Mexique
+peso (MXN)
+20.25
+Émirats arabes unis
+Dirham émirati (AED)
+3.67
+Norvège
+couronne (NOK)
+8.96
+Nv. Zelande
+dollar (NZD)
+1.50
+Singapour
+dollar (SGD)
+1.37
+Suède
+couronne (SEK)
+9.58
+Suisse
+franc (CHF)
+0.96
+Chine
+YUAN
+6.53
+Arabie saoudite
+Rial saoudien (SAR)
+3.75
+Inde
+Roupie indienne (INR)
+76.48
+Russie
+Rouble russe (₽)
+77.38
+Turquie
+Livre turque (TRY)
+14.74
+Bitcoin
+₿
+0.000025
+HAITI	
+Gourde (HTG)
+109.29
+HONDURAS
+Lempira (HNL)
+24.60
+HONGRIE
+Forint (HUF)
+344.47
+JORDANIE
+Dinars Jordanien (JOD)
+0.71
+KAZAKHSTAN
+Tenge (KZT)
+445.23
+KENYA
+Shilling Kenyan (KES)
+116.00
+LIBERIA
+Dollar du Liberia (LRD)
+151.81
+LIBYE
+Dinars Libien (LYD)
+4.72
